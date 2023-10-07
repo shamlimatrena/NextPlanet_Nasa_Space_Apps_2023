@@ -1,6 +1,6 @@
 
 **To play:** https://connector.eagle3dstreaming.com/v5/faysalmehrabchowdhury/NEXTPLANET/E2DS<br><br>
-**After loading the app press the button to play**
+**After loading the app press the button to play!**
 
 <img width="686" alt="Screen Shot 2023-10-07 at 1 22 06 PM" src="https://github.com/shamlimatrena/NextPlanet_Nasa_Space_Apps_2023/assets/66702149/926d899a-8eb1-4809-bf6e-4423303809c3">
 
