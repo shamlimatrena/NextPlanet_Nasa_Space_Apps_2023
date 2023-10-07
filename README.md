@@ -64,13 +64,13 @@ Slide Edit: Canva and PowerPoint
 
 Model development And Website: 
 
-*Unreal Engine 5
-*C + + 
-*Eagle 3d streaming
-*Visual Studio
-*HTML, CSS
+* Unreal Engine 5
+* C + + 
+* Eagle 3d streaming
+* Visual Studio
+* HTML, CSS
 
-Space Data: 
+****Space Data: 
 
 For ISS: https://nasa3d.arc.nasa.gov/detail/iss-hi-res
 
