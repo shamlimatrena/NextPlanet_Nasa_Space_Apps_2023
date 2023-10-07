@@ -70,7 +70,7 @@ Model development And Website:
 * Visual Studio
 * HTML, CSS
 
-****Space Data: 
+**Space Data:**
 
 For ISS: https://nasa3d.arc.nasa.gov/detail/iss-hi-res <br>
 For space shuttle: https://nasa3d.arc.nasa.gov/detail/shuttle-hi-res <br>
