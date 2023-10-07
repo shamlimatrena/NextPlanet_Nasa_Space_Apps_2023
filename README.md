@@ -34,9 +34,47 @@ There are Tele-porters we use so that Users can easily move on the planet.
 
 ![image](https://github.com/shamlimatrena/NextPlanet_Nasa_Space_Apps_2023/assets/66702149/05b92563-0a80-440f-b960-74d67b40471c)
 
+Rover is placed in the museum, which is used to collect data about a planet and helps researchers to complete research accurately.
+
+![image](https://github.com/shamlimatrena/NextPlanet_Nasa_Space_Apps_2023/assets/66702149/f4edcfbd-1865-430b-892f-41a4f1c34a5a)
 
 
+Application’s feature:
+A game-based environment
+Third Person Perspective
+Fictional project
 
+Amenities:
+Users can easily experience a habitable planet except the Earth
+Students can play the game for fantasy besides they can learn about Exoplanets
+Educational institutes can use this model for learning purposes.
 
+Expectations for Achievement:
+Users can use the data for research purposes
+All the misconceptions and misleading information about space and exoplanets can be solved
+Users can broaden their knowledge about space and exoplanets in a very interactive way
 
+Tools:
+Slide Edit: Canva and PowerPoint
 
+Model development And Website: 
+Unreal Engine 5
+C + + 
+Eagle 3d streaming
+Visual Studio
+HTML, CSS
+
+Space Data: 
+
+For ISS: https://nasa3d.arc.nasa.gov/detail/iss-hi-res
+For space shuttle: https://nasa3d.arc.nasa.gov/detail/shuttle-hi-res
+For weather forecast: https://mars.nasa.gov/insight/weather/
+For Rover Cam: https://mars.nasa.gov/mars2020/multimedia/images/
+55 Cancri e 3D Model: https://exoplanets.nasa.gov/resources/2210/55-cancri-e-3d-model/
+Proxima b 3D Model:https://exoplanets.nasa.gov/resources/2211/proxima-b-3d-model/
+For Voyager 2: https://science.nasa.gov/resource/voyager-3d-model/
+For Lunar Module: https://nasa3d.arc.nasa.gov/detail/lunarlandernofoil-c
+James Webb Telescope: https://nasa3d.arc.nasa.gov/detail/jwst
+Opportunity Rover: https://mars.nasa.gov/resources/24883/spirit-and-opportunity-rover-3d-model/
+Curiosity Rover: https://mars.nasa.gov/resources/24584/curiosity-rover-3d-model/
+Mars Perseverance Rover: https://mars.nasa.gov/resources/25042/mars-perseverance-rover-3d-model/
