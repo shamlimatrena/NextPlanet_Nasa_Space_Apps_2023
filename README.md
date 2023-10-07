@@ -72,9 +72,9 @@ Model development And Website:
 
 ****Space Data: 
 
-For ISS: https://nasa3d.arc.nasa.gov/detail/iss-hi-res<br>
-For space shuttle: https://nasa3d.arc.nasa.gov/detail/shuttle-hi-res<br>
-For weather forecast: https://mars.nasa.gov/insight/weather/<br>
+For ISS: https://nasa3d.arc.nasa.gov/detail/iss-hi-res <br>
+For space shuttle: https://nasa3d.arc.nasa.gov/detail/shuttle-hi-res <br>
+For weather forecast: https://mars.nasa.gov/insight/weather/ <br>
 For Rover Cam: https://mars.nasa.gov/mars2020/multimedia/images/<br>
 55 Cancri e 3D Model: https://exoplanets.nasa.gov/resources/2210/55-cancri-e-3d-model/<br>
 Proxima b 3D Model:https://exoplanets.nasa.gov/resources/2211/proxima-b-3d-model/<br>
