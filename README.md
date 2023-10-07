@@ -41,11 +41,11 @@ Rover is placed in the museum, which is used to collect data about a planet and 
 
 Application’s feature:
 
-*A game-based environment
+* A game-based environment
 
-*Third Person Perspective
+* Third Person Perspective
 
-*Fictional project
+* Fictional project
 
 Amenities:
 
