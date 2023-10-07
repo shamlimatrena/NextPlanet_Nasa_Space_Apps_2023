@@ -1,5 +1,5 @@
 
-To play: https://connector.eagle3dstreaming.com/v5/faysalmehrabchowdhury/NEXTPLANET/E2DS
+**To play:** https://connector.eagle3dstreaming.com/v5/faysalmehrabchowdhury/NEXTPLANET/E2DS
 
 
 **HIGH-LEVEL SUMMARY**
@@ -62,7 +62,7 @@ Rover is placed in the museum, which is used to collect data about a planet and 
 
 **Slide Edit:** Canva and PowerPoint
 
-**Model development And Website: **
+**Model Development And Website:**
 
 * Unreal Engine 5
 * C + + 
