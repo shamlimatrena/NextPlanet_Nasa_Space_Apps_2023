@@ -1,7 +1,8 @@
 
 **To play:** https://connector.eagle3dstreaming.com/v5/faysalmehrabchowdhury/NEXTPLANET/E2DS<br><br>
 **After loading the app press the button to play**
-<img width="696" alt="Screen Shot 2023-10-07 at 1 22 06 PM" src="https://github.com/shamlimatrena/NextPlanet_Nasa_Space_Apps_2023/assets/66702149/d048bd5b-657f-42e5-952a-e94849ca56ad">
+
+<img width="686" alt="Screen Shot 2023-10-07 at 1 22 06 PM" src="https://github.com/shamlimatrena/NextPlanet_Nasa_Space_Apps_2023/assets/66702149/926d899a-8eb1-4809-bf6e-4423303809c3">
 
 
 **Drive ink for the project:** https://drive.google.com/drive/folders/1zzddli3FPox6IlMtP6SuNS4JbGgehWjQ?usp=drive_link
