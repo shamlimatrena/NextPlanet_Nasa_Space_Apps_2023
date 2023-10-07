@@ -1,4 +1,4 @@
-# NextPlanet_Nasa_Space_Apps_2023
+![image](https://github.com/shamlimatrena/NextPlanet_Nasa_Space_Apps_2023/assets/66702149/1d851c11-b0fd-400f-b5ab-812e0032cf70)![image](https://github.com/shamlimatrena/NextPlanet_Nasa_Space_Apps_2023/assets/66702149/15935fb2-1a3b-44c8-8ab9-29a60d04b195)# NextPlanet_Nasa_Space_Apps_2023
 
 To play: https://connector.eagle3dstreaming.com/v5/faysalmehrabchowdhury/NEXTPLANET/E2DS
 
@@ -11,3 +11,19 @@ HIGH-LEVEL SUMMARY
 PROJECT DEMO:
 
 https://youtu.be/tMGhVx6V8QI
+
+What have we created?
+
+We've created an interactive Exoplanet model designed for everyone. This innovative tool goes beyond mere entertainment; it enables users to explore and understand the potential existence of life in distant corners of the universe. By showcasing how life might appear and endure in such environments, the model educates individuals about the complexities of living on exoplanets. This knowledge prepares us for the future prospect of human colonization.
+
+
+
+
+
+
+
+
+
+
+
+
