@@ -47,19 +47,15 @@ Application’s feature:
 
 Amenities:
 
-Users can easily experience a habitable planet except the Earth
-
-Students can play the game for fantasy besides they can learn about Exoplanets
-
-Educational institutes can use this model for learning purposes.
-
+* Users can easily experience a habitable planet except the Earth
+* Students can play the game for fantasy besides they can learn about Exoplanets
+* Educational institutes can use this model for learning purposes.
+  
 Expectations for Achievement:
 
-Users can use the data for research purposes
-
-All the misconceptions and misleading information about space and exoplanets can be solved
-
-Users can broaden their knowledge about space and exoplanets in a very interactive way
+* Users can use the data for research purposes
+* All the misconceptions and misleading information about space and exoplanets can be solved
+*Users can broaden their knowledge about space and exoplanets in a very interactive way
 
 
 Tools:
@@ -68,15 +64,11 @@ Slide Edit: Canva and PowerPoint
 
 Model development And Website: 
 
-Unreal Engine 5
-
-C + + 
-
-Eagle 3d streaming
-
-Visual Studio
-
-HTML, CSS
+*Unreal Engine 5
+*C + + 
+*Eagle 3d streaming
+*Visual Studio
+*HTML, CSS
 
 Space Data: 
 
