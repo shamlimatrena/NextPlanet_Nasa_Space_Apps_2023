@@ -26,9 +26,13 @@ We created a museum where we exhibit space-related objects such as some exoplane
 
 <img width="665" alt="Screen Shot 2023-10-07 at 12 32 51 PM" src="https://github.com/shamlimatrena/NextPlanet_Nasa_Space_Apps_2023/assets/66702149/4cf1fa47-41de-4041-bb15-9904c05d7a83">
 
+Water resources and Cultivation land are here which make our Exoplanet habitat.
 
+<img width="665" alt="Screen Shot 2023-10-07 at 12 34 32 PM" src="https://github.com/shamlimatrena/NextPlanet_Nasa_Space_Apps_2023/assets/66702149/7428102a-bce4-4cf0-8d03-15cbf923a9f6">
 
+There are Tele-porters we use so that Users can easily move on the planet.
 
+![image](https://github.com/shamlimatrena/NextPlanet_Nasa_Space_Apps_2023/assets/66702149/05b92563-0a80-440f-b960-74d67b40471c)
 
 
 
