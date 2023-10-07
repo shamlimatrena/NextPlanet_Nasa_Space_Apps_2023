@@ -2,16 +2,16 @@
 To play: https://connector.eagle3dstreaming.com/v5/faysalmehrabchowdhury/NEXTPLANET/E2DS
 
 
-HIGH-LEVEL SUMMARY
+**HIGH-LEVEL SUMMARY**
 
 "NEXTPLANET" is an innovative project aimed at addressing the lack of engaging and interactive information about habitable exoplanets. With the goal of inspiring curiosity about life beyond Earth, this initiative seeks to educate the public about the complexities of exoplanetary data and dispel common misconceptions. By providing accurate information and fostering scientific understanding, NEXTPLANET bridges the gap between space agencies and the general public, igniting enthusiasm for future space missions. Additionally, it encourages contemplation of the potential for human habitation on exoplanets, preparing society for the possibilities of colonization. In doing so, NEXTPLANET aspires to cultivate a greater appreciation for the vast universe and its mysteries, driving a newfound interest in space exploration.
 
 
-PROJECT DEMO:
+**PROJECT DEMO:**
 
 https://youtu.be/tMGhVx6V8QI
 
-What have we created?
+**What have we created?**
 
 We've created an interactive Exoplanet model designed for everyone. This innovative tool goes beyond mere entertainment; it enables users to explore and understand the potential existence of life in distant corners of the universe. By showcasing how life might appear and endure in such environments, the model educates individuals about the complexities of living on exoplanets. This knowledge prepares us for the future prospect of human colonization.
 
@@ -39,30 +39,30 @@ Rover is placed in the museum, which is used to collect data about a planet and 
 ![image](https://github.com/shamlimatrena/NextPlanet_Nasa_Space_Apps_2023/assets/66702149/f4edcfbd-1865-430b-892f-41a4f1c34a5a)
 
 
-Application’s feature:
+**Application’s feature:**
 
 * A game-based environment
 * Third Person Perspective
 * Fictional project
 
-Amenities:
+**Amenities:**
 
 * Users can easily experience a habitable planet except the Earth
 * Students can play the game for fantasy besides they can learn about Exoplanets
 * Educational institutes can use this model for learning purposes.
   
-Expectations for Achievement:
+**Expectations for Achievement:**
 
 * Users can use the data for research purposes
 * All the misconceptions and misleading information about space and exoplanets can be solved
-*Users can broaden their knowledge about space and exoplanets in a very interactive way
+* Users can broaden their knowledge about space and exoplanets in a very interactive way
 
 
-Tools:
+**Tools:**
 
-Slide Edit: Canva and PowerPoint
+**Slide Edit:** Canva and PowerPoint
 
-Model development And Website: 
+**Model development And Website: **
 
 * Unreal Engine 5
 * C + + 
