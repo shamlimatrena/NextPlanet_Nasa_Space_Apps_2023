@@ -15,6 +15,14 @@ What have we created?
 
 We've created an interactive Exoplanet model designed for everyone. This innovative tool goes beyond mere entertainment; it enables users to explore and understand the potential existence of life in distant corners of the universe. By showcasing how life might appear and endure in such environments, the model educates individuals about the complexities of living on exoplanets. This knowledge prepares us for the future prospect of human colonization.
 
+![image](https://github.com/shamlimatrena/NextPlanet_Nasa_Space_Apps_2023/assets/66702149/776948ea-50ab-4cef-ba06-36604c13fcf5)
+
+We've created an interactive Exoplanet model designed for everyone. This innovative tool goes beyond mere entertainment; it enables users to explore and understand the potential existence of life in distant corners of the universe. By showcasing how life might appear and endure in such environments, the model educates individuals about the complexities of living on exoplanets. This knowledge prepares us for the future prospect of human colonization.
+
+
+In our model, users can experience a lot of things that should be situated in an exoplanet. We have added some models from NASA resources like space shuttle, Spacecraft, Rovers, and other models, which make our Exoplanet habitable.
+
+We created a museum where we exhibit space-related objects such as some exoplanets 3D models, space satellites, the James Webb telescope, Voyager 2, ISS (International Space Station), Lunar module provided by NASA. Users can visit the museum and see detailed information about these Exhibit models.
 
 
 
