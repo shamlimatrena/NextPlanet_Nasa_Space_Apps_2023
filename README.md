@@ -24,6 +24,8 @@ In our model, users can experience a lot of things that should be situated in an
 
 We created a museum where we exhibit space-related objects such as some exoplanets 3D models, space satellites, the James Webb telescope, Voyager 2, ISS (International Space Station), Lunar module provided by NASA. Users can visit the museum and see detailed information about these Exhibit models.
 
+<img width="665" alt="Screen Shot 2023-10-07 at 12 32 51 PM" src="https://github.com/shamlimatrena/NextPlanet_Nasa_Space_Apps_2023/assets/66702149/4cf1fa47-41de-4041-bb15-9904c05d7a83">
+
 
 
 
